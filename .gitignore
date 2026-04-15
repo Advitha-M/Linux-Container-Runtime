@@ -1,0 +1,14 @@
+engine
+*.o
+*.ko
+*.mod*
+modules.order
+Module.symvers
+rootfs-*
+engine
+*.o
+*.ko
+*.mod*
+modules.order
+Module.symvers
+rootfs-*
